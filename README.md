@@ -4,7 +4,7 @@
 
   ### start
     - npm i
-    - npm run dev
+    - npm start
 
   ## All configs
   - **Aqui vms baixar as dependencias iniciais e configurações necessarisas**
